@@ -1,0 +1,4 @@
+1. create a file cronjob
+2. issue command : crontab cronjob ; issue command 'crontab -l' to show the content of cronjob
+
+/* above steps could be replace by using command 'crontab -e'

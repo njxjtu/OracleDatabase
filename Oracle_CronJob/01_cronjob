@@ -1,0 +1,1 @@
+10 14 * * * /root/testcron.shl >> /root/testcron.log 2>&1
