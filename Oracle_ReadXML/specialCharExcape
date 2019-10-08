@@ -1,0 +1,6 @@
+Special characters 	Escape in XML: replace the <, >, &, ", ' to the replacements when building XML for ORACLE PL/SQL to parse
+<	  ->   &lt;
+&	  ->   &amp;
+>	  ->   &gt;
+“	  ->   &quot;
+‘	  ->   &apos;
